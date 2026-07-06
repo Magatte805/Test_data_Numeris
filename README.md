@@ -134,6 +134,25 @@ jupyter notebook
 
 ---
 
+## Référentiel sémantique des KPI
+
+Afin de faciliter la réutilisation des indicateurs par d'autres équipes (Data, BI ou Produit), nous proposons le référentiel sémantique suivant.
+
+| KPI                              | Définition                                      | Méthode de calcul                                                                 | Utilité métier                                                                                                                                  |
+| -------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CA mensuel**                   | Chiffre d'affaires réalisé chaque mois          | Somme des écritures des comptes de produits (classe 7) agrégée par mois           | Suivre l'évolution de l'activité au cours de l'exercice.                                                                                        |
+| **CA annuel**                    | Chiffre d'affaires total de l'exercice          | Somme des écritures des comptes de produits (classe 7) par entreprise             | Mesurer le niveau d'activité de chaque entreprise et servir de base au calcul du DSO.                                                           |
+| **Trésorerie**                   | Position de trésorerie de l'entreprise          | Solde des principaux comptes de trésorerie (banques, caisse et comptes assimilés) | Identifier les entreprises pouvant rencontrer des tensions de liquidité ou disposant d'excédents de trésorerie.                                 |
+| **Créances clients**             | Montants restant à encaisser auprès des clients | Solde des comptes clients (411)                                                   | Évaluer les retards d'encaissement et alimenter le calcul du BFR et du DSO.                                                                     |
+| **Dettes fournisseurs**          | Montants restant à payer aux fournisseurs       | Solde des comptes fournisseurs (401)                                              | Évaluer les dettes d'exploitation et participer au calcul du BFR.                                                                               |
+| **BFR**                          | Besoin en Fonds de Roulement                    | Créances clients − Dettes fournisseurs                                            | Mesurer le besoin de financement du cycle d'exploitation et détecter les entreprises nécessitant un accompagnement.                             |
+| **DSO (Days Sales Outstanding)** | Délai moyen de paiement des clients             | (Créances clients / CA annuel) × 365                                              | Identifier les entreprises présentant des délais de paiement élevés et susceptibles de bénéficier d'une mission d'optimisation du recouvrement. |
+
+### Objectif
+
+Ce référentiel fournit une définition commune des indicateurs utilisés dans le projet. Il facilite leur compréhension, leur réutilisation et leur partage entre les équipes Data, BI et les utilisateurs métier, tout en garantissant une interprétation cohérente des résultats.
+
+
 ## Résultat
 
 Le projet transforme les écritures comptables d'un FEC en un outil d'aide à la décision permettant d'identifier rapidement les entreprises à fort potentiel de missions de conseil grâce à une approche combinant analyse de données, règles métier et visualisation interactive.
