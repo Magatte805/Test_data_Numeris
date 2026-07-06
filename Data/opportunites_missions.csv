@@ -1,0 +1,271 @@
+name,Mission,Priorite,DSO,BFR,Tresorerie,Creances_clients,Dettes_fournisseurs,Explication,forme_juridique
+Client 137,Diagnostic financier approfondi,Haute,46.39620125683974,2401803.0,610673.0,2296900.0,-104903.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 137,Optimisation du BFR,Haute,46.39620125683974,2401803.0,610673.0,2296900.0,-104903.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 137,Optimisation du recouvrement clients,Haute,46.39620125683974,2401803.0,610673.0,2296900.0,-104903.0,DSO élevé et créances clients importantes.,
+Client 168,Optimisation du BFR,Haute,6.054062386844587,519898.0,12232852.0,408000.0,-111898.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 160,Accompagnement au pilotage financier,Moyenne,109.84538071950463,40807885.0,36804002.0,37196600.0,-3611285.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 160,Diagnostic financier approfondi,Haute,109.84538071950463,40807885.0,36804002.0,37196600.0,-3611285.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 160,Optimisation du BFR,Haute,109.84538071950463,40807885.0,36804002.0,37196600.0,-3611285.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 160,Optimisation du recouvrement clients,Haute,109.84538071950463,40807885.0,36804002.0,37196600.0,-3611285.0,DSO élevé et créances clients importantes.,
+Client 217,Optimisation du BFR,Haute,40.49527592192608,570031.0,1881924.0,725235.0,155204.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 247,Accompagnement au pilotage financier,Moyenne,22.645168999231245,1127019.0,4055465.0,2681553.0,1554534.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,IND
+Client 247,Optimisation du BFR,Haute,22.645168999231245,1127019.0,4055465.0,2681553.0,1554534.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 238,Diagnostic financier approfondi,Haute,61.296503747345774,2941859.0,4042228.0,6276323.0,3334464.0,Plusieurs signaux financiers justifient une analyse approfondie.,SC
+Client 238,Optimisation du BFR,Haute,61.296503747345774,2941859.0,4042228.0,6276323.0,3334464.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SC
+Client 238,Optimisation du recouvrement clients,Haute,61.296503747345774,2941859.0,4042228.0,6276323.0,3334464.0,DSO élevé et créances clients importantes.,SC
+Client 136,Accompagnement au pilotage financier,Moyenne,34.89644205934256,3351096.0,2227390.0,4499794.0,1148698.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 136,Diagnostic financier approfondi,Haute,34.89644205934256,3351096.0,2227390.0,4499794.0,1148698.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 136,Optimisation du BFR,Haute,34.89644205934256,3351096.0,2227390.0,4499794.0,1148698.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 136,Optimisation du recouvrement clients,Haute,34.89644205934256,3351096.0,2227390.0,4499794.0,1148698.0,DSO élevé et créances clients importantes.,
+Client 207,Optimisation de la structure financière,Moyenne,0.0,-8575794.0,24521828.0,0.0,8575794.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",SARL
+Client 142,Accompagnement au pilotage financier,Moyenne,53.60140385107925,12173522.0,9077819.0,16208137.0,4034615.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 142,Diagnostic financier approfondi,Haute,53.60140385107925,12173522.0,9077819.0,16208137.0,4034615.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 142,Optimisation du BFR,Haute,53.60140385107925,12173522.0,9077819.0,16208137.0,4034615.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 142,Optimisation du recouvrement clients,Haute,53.60140385107925,12173522.0,9077819.0,16208137.0,4034615.0,DSO élevé et créances clients importantes.,
+Client 4,Optimisation du BFR,Haute,96.26861625939348,316719.0,1760055.0,316719.0,0.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,COM
+Client 85,Pilotage de la trésorerie,Haute,0.0,37000.0,38274.0,0.0,-37000.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 191,Optimisation du BFR,Haute,19.62268412707666,4824597.0,1076528.0,521962.0,-4302635.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,DIV
+Client 162,Optimisation du BFR,Haute,5.283642006961962,338385.0,10081649.0,486680.0,148295.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 129,Pilotage de la trésorerie,Haute,36.5,250000.0,-31762.0,250000.0,0.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 62,Accompagnement au pilotage financier,Moyenne,38.4317332805853,6877483.0,8596234.0,11160282.0,4282799.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 62,Diagnostic financier approfondi,Haute,38.4317332805853,6877483.0,8596234.0,11160282.0,4282799.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 62,Optimisation du BFR,Haute,38.4317332805853,6877483.0,8596234.0,11160282.0,4282799.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 62,Optimisation du recouvrement clients,Haute,38.4317332805853,6877483.0,8596234.0,11160282.0,4282799.0,DSO élevé et créances clients importantes.,
+Client 151,Optimisation du BFR,Haute,18.657374498030983,513000.0,2604863.0,513000.0,0.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 59,Optimisation du BFR,Haute,21.806091662439194,810000.0,1380777.0,810000.0,0.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,ENT
+Client 249,Diagnostic financier approfondi,Haute,23.807507275412675,1055679.0,3866086.0,1497402.0,441723.0,Plusieurs signaux financiers justifient une analyse approfondie.,SEP
+Client 249,Optimisation du BFR,Haute,23.807507275412675,1055679.0,3866086.0,1497402.0,441723.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SEP
+Client 249,Optimisation du recouvrement clients,Haute,23.807507275412675,1055679.0,3866086.0,1497402.0,441723.0,DSO élevé et créances clients importantes.,SEP
+Client 234,Optimisation de la structure financière,Moyenne,0.0,-93942.0,17906911.0,0.0,93942.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 251,Optimisation du BFR,Haute,1.1669882674403864,2087380.0,-2064881.0,81947.0,-2005433.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 251,Pilotage de la trésorerie,Haute,1.1669882674403864,2087380.0,-2064881.0,81947.0,-2005433.0,Trésorerie faible avec un besoin en fonds de roulement positif.,IND
+Client 39,Accompagnement au pilotage financier,Moyenne,68.2476324443264,29682428.0,42364898.0,59014141.0,29331713.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 39,Diagnostic financier approfondi,Haute,68.2476324443264,29682428.0,42364898.0,59014141.0,29331713.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 39,Optimisation du BFR,Haute,68.2476324443264,29682428.0,42364898.0,59014141.0,29331713.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 39,Optimisation du recouvrement clients,Haute,68.2476324443264,29682428.0,42364898.0,59014141.0,29331713.0,DSO élevé et créances clients importantes.,
+Client 67,Pilotage de la trésorerie,Haute,8.946582458209015,95333.0,55930.0,112418.0,17085.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 95,Accompagnement au pilotage financier,Moyenne,32.16490900325748,6091498.0,26389258.0,8081414.0,1989916.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,SARL
+Client 95,Diagnostic financier approfondi,Haute,32.16490900325748,6091498.0,26389258.0,8081414.0,1989916.0,Plusieurs signaux financiers justifient une analyse approfondie.,SARL
+Client 95,Optimisation du BFR,Haute,32.16490900325748,6091498.0,26389258.0,8081414.0,1989916.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 95,Optimisation du recouvrement clients,Haute,32.16490900325748,6091498.0,26389258.0,8081414.0,1989916.0,DSO élevé et créances clients importantes.,SARL
+Client 12,Diagnostic financier approfondi,Haute,54.60246214149377,1238994.0,1037977.0,1945958.0,706964.0,Plusieurs signaux financiers justifient une analyse approfondie.,SARL
+Client 12,Optimisation du BFR,Haute,54.60246214149377,1238994.0,1037977.0,1945958.0,706964.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 12,Optimisation du recouvrement clients,Haute,54.60246214149377,1238994.0,1037977.0,1945958.0,706964.0,DSO élevé et créances clients importantes.,SARL
+Client 109,Optimisation de la structure financière,Moyenne,-20.169874469048136,-754229.0,7160547.0,-2091000.0,-1336771.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",BNC
+Client 236,Optimisation de la structure financière,Moyenne,0.0,-763201.0,7740349.0,0.0,763201.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",SARL
+Client 158,Diagnostic financier approfondi,Haute,48.091142476866324,760798.0,3525842.0,1465196.0,704398.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 158,Optimisation du BFR,Haute,48.091142476866324,760798.0,3525842.0,1465196.0,704398.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 158,Optimisation du recouvrement clients,Haute,48.091142476866324,760798.0,3525842.0,1465196.0,704398.0,DSO élevé et créances clients importantes.,
+Client 225,Diagnostic financier approfondi,Haute,77.33872328774035,6280197.0,16573605.0,6836156.0,555959.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 225,Optimisation du BFR,Haute,77.33872328774035,6280197.0,16573605.0,6836156.0,555959.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 225,Optimisation du recouvrement clients,Haute,77.33872328774035,6280197.0,16573605.0,6836156.0,555959.0,DSO élevé et créances clients importantes.,
+Client 299,Optimisation du BFR,Haute,0.0,1159478.0,22552.0,0.0,-1159478.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 299,Pilotage de la trésorerie,Haute,0.0,1159478.0,22552.0,0.0,-1159478.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SCV
+Client 261,Optimisation de la structure financière,Moyenne,0.0,-3763153.0,16410165.0,0.0,3763153.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 237,Diagnostic financier approfondi,Haute,99.13369897124288,3850453.0,1042872.0,3992500.0,142047.0,Plusieurs signaux financiers justifient une analyse approfondie.,SCI
+Client 237,Optimisation du BFR,Haute,99.13369897124288,3850453.0,1042872.0,3992500.0,142047.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCI
+Client 237,Optimisation du recouvrement clients,Haute,99.13369897124288,3850453.0,1042872.0,3992500.0,142047.0,DSO élevé et créances clients importantes.,SCI
+Client 309,Optimisation du BFR,Haute,5.283642006961962,338385.0,10081649.0,486680.0,148295.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 246,Diagnostic financier approfondi,Haute,125.66240036079662,4888900.0,110198.0,5310062.0,421162.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 246,Optimisation du BFR,Haute,125.66240036079662,4888900.0,110198.0,5310062.0,421162.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 246,Optimisation du recouvrement clients,Haute,125.66240036079662,4888900.0,110198.0,5310062.0,421162.0,DSO élevé et créances clients importantes.,
+Client 177,Optimisation du BFR,Haute,0.0,292806.0,1155976.0,0.0,-292806.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 303,Optimisation du BFR,Haute,0.0,1267935.0,641580.0,0.0,-1267935.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 143,Optimisation du BFR,Haute,0.0,870205.0,-927116.0,0.0,-870205.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 143,Pilotage de la trésorerie,Haute,0.0,870205.0,-927116.0,0.0,-870205.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 111,Diagnostic financier approfondi,Haute,113.02012330801998,5704125.0,894827.0,8621711.0,2917586.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 111,Optimisation du BFR,Haute,113.02012330801998,5704125.0,894827.0,8621711.0,2917586.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 111,Optimisation du recouvrement clients,Haute,113.02012330801998,5704125.0,894827.0,8621711.0,2917586.0,DSO élevé et créances clients importantes.,
+Client 181,Accompagnement au pilotage financier,Moyenne,30.30911070887808,1807900.0,-331668.0,4237381.0,2429481.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 181,Diagnostic financier approfondi,Haute,30.30911070887808,1807900.0,-331668.0,4237381.0,2429481.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 181,Optimisation du BFR,Haute,30.30911070887808,1807900.0,-331668.0,4237381.0,2429481.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 181,Optimisation du recouvrement clients,Haute,30.30911070887808,1807900.0,-331668.0,4237381.0,2429481.0,DSO élevé et créances clients importantes.,
+Client 181,Pilotage de la trésorerie,Haute,30.30911070887808,1807900.0,-331668.0,4237381.0,2429481.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 126,Diagnostic financier approfondi,Haute,32.77592242728324,1400089.0,-976648.0,1874492.0,474403.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 126,Optimisation du BFR,Haute,32.77592242728324,1400089.0,-976648.0,1874492.0,474403.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 126,Optimisation du recouvrement clients,Haute,32.77592242728324,1400089.0,-976648.0,1874492.0,474403.0,DSO élevé et créances clients importantes.,
+Client 126,Pilotage de la trésorerie,Haute,32.77592242728324,1400089.0,-976648.0,1874492.0,474403.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 167,Accompagnement au pilotage financier,Moyenne,181.3787300049856,20172034.0,-27309.0,24314103.0,4142069.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 167,Diagnostic financier approfondi,Haute,181.3787300049856,20172034.0,-27309.0,24314103.0,4142069.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 167,Optimisation du BFR,Haute,181.3787300049856,20172034.0,-27309.0,24314103.0,4142069.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 167,Optimisation du recouvrement clients,Haute,181.3787300049856,20172034.0,-27309.0,24314103.0,4142069.0,DSO élevé et créances clients importantes.,
+Client 167,Pilotage de la trésorerie,Haute,181.3787300049856,20172034.0,-27309.0,24314103.0,4142069.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 44,Accompagnement au pilotage financier,Moyenne,41.913463867373196,4802943.0,956910.0,4968144.0,165201.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 44,Diagnostic financier approfondi,Haute,41.913463867373196,4802943.0,956910.0,4968144.0,165201.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 44,Optimisation du BFR,Haute,41.913463867373196,4802943.0,956910.0,4968144.0,165201.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 44,Optimisation du recouvrement clients,Haute,41.913463867373196,4802943.0,956910.0,4968144.0,165201.0,DSO élevé et créances clients importantes.,
+Client 155,Accompagnement au pilotage financier,Moyenne,34.264876239310915,6570930.0,9771537.0,9052811.0,2481881.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 155,Diagnostic financier approfondi,Haute,34.264876239310915,6570930.0,9771537.0,9052811.0,2481881.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 155,Optimisation du BFR,Haute,34.264876239310915,6570930.0,9771537.0,9052811.0,2481881.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 155,Optimisation du recouvrement clients,Haute,34.264876239310915,6570930.0,9771537.0,9052811.0,2481881.0,DSO élevé et créances clients importantes.,
+Client 189,Accompagnement au pilotage financier,Moyenne,1.41336755414165,1986233.0,22000507.0,321463.0,-1664770.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 189,Optimisation du BFR,Haute,1.41336755414165,1986233.0,22000507.0,321463.0,-1664770.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 5,Pilotage de la trésorerie,Haute,26.77764425739739,272197.0,0.0,357634.0,85437.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SARL
+Client 1,Diagnostic financier approfondi,Haute,233.73731796116502,6018665.0,190292.0,6068205.0,49540.0,Plusieurs signaux financiers justifient une analyse approfondie.,EARL
+Client 1,Optimisation du BFR,Haute,233.73731796116502,6018665.0,190292.0,6068205.0,49540.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,EARL
+Client 1,Optimisation du recouvrement clients,Haute,233.73731796116502,6018665.0,190292.0,6068205.0,49540.0,DSO élevé et créances clients importantes.,EARL
+Client 94,Diagnostic financier approfondi,Haute,78.47166414943607,1648460.0,4683205.0,1950000.0,301540.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 94,Optimisation du BFR,Haute,78.47166414943607,1648460.0,4683205.0,1950000.0,301540.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 94,Optimisation du recouvrement clients,Haute,78.47166414943607,1648460.0,4683205.0,1950000.0,301540.0,DSO élevé et créances clients importantes.,
+Client 93,Diagnostic financier approfondi,Haute,67.93612364877654,-30885150.0,23421.0,5787800.0,36672950.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 93,Optimisation du recouvrement clients,Haute,67.93612364877654,-30885150.0,23421.0,5787800.0,36672950.0,DSO élevé et créances clients importantes.,
+Client 92,Accompagnement au pilotage financier,Moyenne,42.04806302342264,4989206.0,21248649.0,16572789.0,11583583.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 92,Diagnostic financier approfondi,Haute,42.04806302342264,4989206.0,21248649.0,16572789.0,11583583.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 92,Optimisation du BFR,Haute,42.04806302342264,4989206.0,21248649.0,16572789.0,11583583.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 92,Optimisation du recouvrement clients,Haute,42.04806302342264,4989206.0,21248649.0,16572789.0,11583583.0,DSO élevé et créances clients importantes.,
+Client 302,Diagnostic financier approfondi,Haute,208.64236029230872,6391798.0,8151907.0,6726684.0,334886.0,Plusieurs signaux financiers justifient une analyse approfondie.,SCV
+Client 302,Optimisation du BFR,Haute,208.64236029230872,6391798.0,8151907.0,6726684.0,334886.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 302,Optimisation du recouvrement clients,Haute,208.64236029230872,6391798.0,8151907.0,6726684.0,334886.0,DSO élevé et créances clients importantes.,SCV
+Client 61,Diagnostic financier approfondi,Haute,34.955645825665286,552219.0,4765880.0,1262465.0,710246.0,Plusieurs signaux financiers justifient une analyse approfondie.,SA
+Client 61,Optimisation du BFR,Haute,34.955645825665286,552219.0,4765880.0,1262465.0,710246.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SA
+Client 61,Optimisation du recouvrement clients,Haute,34.955645825665286,552219.0,4765880.0,1262465.0,710246.0,DSO élevé et créances clients importantes.,SA
+Client 103,Optimisation de la structure financière,Moyenne,-4.077890127747935,-757423.0,14572508.0,-198000.0,559423.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 259,Diagnostic financier approfondi,Haute,14.527537239589574,497300.0,-484424.0,881988.0,384688.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 259,Optimisation du BFR,Haute,14.527537239589574,497300.0,-484424.0,881988.0,384688.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 259,Pilotage de la trésorerie,Haute,14.527537239589574,497300.0,-484424.0,881988.0,384688.0,Trésorerie faible avec un besoin en fonds de roulement positif.,IND
+Client 163,Accompagnement au pilotage financier,Moyenne,1.174626710389812,479080.0,20872513.0,259800.0,-219280.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 163,Optimisation du BFR,Haute,1.174626710389812,479080.0,20872513.0,259800.0,-219280.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 243,Accompagnement au pilotage financier,Moyenne,56.94146647727747,24111946.0,20053644.0,20326380.0,-3785566.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,IND
+Client 243,Diagnostic financier approfondi,Haute,56.94146647727747,24111946.0,20053644.0,20326380.0,-3785566.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 243,Optimisation du BFR,Haute,56.94146647727747,24111946.0,20053644.0,20326380.0,-3785566.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 243,Optimisation du recouvrement clients,Haute,56.94146647727747,24111946.0,20053644.0,20326380.0,-3785566.0,DSO élevé et créances clients importantes.,IND
+Client 104,Optimisation du recouvrement clients,Haute,387.4333059342762,-1588407.0,408706.0,2125578.0,3713985.0,DSO élevé et créances clients importantes.,
+Client 294,Optimisation de la structure financière,Moyenne,0.0,0.0,15764195.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 307,Diagnostic financier approfondi,Haute,64.67590520307431,1875602.0,4810211.0,4289586.0,2413984.0,Plusieurs signaux financiers justifient une analyse approfondie.,SCV
+Client 307,Optimisation du BFR,Haute,64.67590520307431,1875602.0,4810211.0,4289586.0,2413984.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 307,Optimisation du recouvrement clients,Haute,64.67590520307431,1875602.0,4810211.0,4289586.0,2413984.0,DSO élevé et créances clients importantes.,SCV
+Client 271,Pilotage de la trésorerie,Haute,-10.048720303613486,10754.0,-25766.0,-17896.0,-28650.0,Trésorerie faible avec un besoin en fonds de roulement positif.,IND
+Client 119,Diagnostic financier approfondi,Haute,34.95528464229773,1270259.0,542016.0,1488401.0,218142.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 119,Optimisation du BFR,Haute,34.95528464229773,1270259.0,542016.0,1488401.0,218142.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 119,Optimisation du recouvrement clients,Haute,34.95528464229773,1270259.0,542016.0,1488401.0,218142.0,DSO élevé et créances clients importantes.,
+Client 29,Optimisation de la structure financière,Moyenne,0.0,0.0,10962003.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 87,Accompagnement au pilotage financier,Moyenne,16.240653789780186,2387700.0,69030637.0,4694400.0,2306700.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 87,Optimisation du BFR,Haute,16.240653789780186,2387700.0,69030637.0,4694400.0,2306700.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 3,Accompagnement au pilotage financier,Moyenne,63.316964914862474,-158687654.0,27331893.0,45985562.0,204673216.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 3,Optimisation du recouvrement clients,Haute,63.316964914862474,-158687654.0,27331893.0,45985562.0,204673216.0,DSO élevé et créances clients importantes.,
+Client 254,Accompagnement au pilotage financier,Moyenne,31.160425748660796,4370589.0,2850513.0,4024408.0,-346181.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,IND
+Client 254,Diagnostic financier approfondi,Haute,31.160425748660796,4370589.0,2850513.0,4024408.0,-346181.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 254,Optimisation du BFR,Haute,31.160425748660796,4370589.0,2850513.0,4024408.0,-346181.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 254,Optimisation du recouvrement clients,Haute,31.160425748660796,4370589.0,2850513.0,4024408.0,-346181.0,DSO élevé et créances clients importantes.,IND
+Client 113,Accompagnement au pilotage financier,Moyenne,106.9331854828915,104308131.0,-3763280.0,124227680.0,19919549.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 113,Diagnostic financier approfondi,Haute,106.9331854828915,104308131.0,-3763280.0,124227680.0,19919549.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 113,Optimisation du BFR,Haute,106.9331854828915,104308131.0,-3763280.0,124227680.0,19919549.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 113,Optimisation du recouvrement clients,Haute,106.9331854828915,104308131.0,-3763280.0,124227680.0,19919549.0,DSO élevé et créances clients importantes.,
+Client 113,Pilotage de la trésorerie,Haute,106.9331854828915,104308131.0,-3763280.0,124227680.0,19919549.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 185,Diagnostic financier approfondi,Haute,43.53935149843784,1075023.0,158636.0,1675903.0,600880.0,Plusieurs signaux financiers justifient une analyse approfondie.,ASS
+Client 185,Optimisation du BFR,Haute,43.53935149843784,1075023.0,158636.0,1675903.0,600880.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,ASS
+Client 185,Optimisation du recouvrement clients,Haute,43.53935149843784,1075023.0,158636.0,1675903.0,600880.0,DSO élevé et créances clients importantes.,ASS
+Client 50,Optimisation de la structure financière,Moyenne,0.0,-2046195.0,68179961.0,0.0,2046195.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",EURL
+Client 138,Accompagnement au pilotage financier,Moyenne,92.76921819861346,6096677.0,7588983.0,59690433.0,53593756.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 138,Diagnostic financier approfondi,Haute,92.76921819861346,6096677.0,7588983.0,59690433.0,53593756.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 138,Optimisation du BFR,Haute,92.76921819861346,6096677.0,7588983.0,59690433.0,53593756.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 138,Optimisation du recouvrement clients,Haute,92.76921819861346,6096677.0,7588983.0,59690433.0,53593756.0,DSO élevé et créances clients importantes.,
+Client 43,Diagnostic financier approfondi,Haute,78.70871364495237,2636864.0,-1034125.0,3050086.0,413222.0,Plusieurs signaux financiers justifient une analyse approfondie.,SA
+Client 43,Optimisation du BFR,Haute,78.70871364495237,2636864.0,-1034125.0,3050086.0,413222.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SA
+Client 43,Optimisation du recouvrement clients,Haute,78.70871364495237,2636864.0,-1034125.0,3050086.0,413222.0,DSO élevé et créances clients importantes.,SA
+Client 43,Pilotage de la trésorerie,Haute,78.70871364495237,2636864.0,-1034125.0,3050086.0,413222.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SA
+Client 149,Optimisation du recouvrement clients,Haute,40.519158741609,-13925.0,6028573.0,1409636.0,1423561.0,DSO élevé et créances clients importantes.,
+Client 28,Accompagnement au pilotage financier,Moyenne,34.63976932304855,1855046.0,169807773.0,5040845.0,3185799.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 28,Diagnostic financier approfondi,Haute,34.63976932304855,1855046.0,169807773.0,5040845.0,3185799.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 28,Optimisation du BFR,Haute,34.63976932304855,1855046.0,169807773.0,5040845.0,3185799.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 28,Optimisation du recouvrement clients,Haute,34.63976932304855,1855046.0,169807773.0,5040845.0,3185799.0,DSO élevé et créances clients importantes.,
+Client 166,Diagnostic financier approfondi,Haute,72.2812732502171,3582491.0,2685441.0,3630000.0,47509.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 166,Optimisation du BFR,Haute,72.2812732502171,3582491.0,2685441.0,3630000.0,47509.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 166,Optimisation du recouvrement clients,Haute,72.2812732502171,3582491.0,2685441.0,3630000.0,47509.0,DSO élevé et créances clients importantes.,
+Client 244,Optimisation de la structure financière,Moyenne,0.0,0.0,45037358.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 173,Optimisation du BFR,Haute,0.0,2398800.0,7642052.0,0.0,-2398800.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 301,Diagnostic financier approfondi,Haute,107.28936508655856,3115498.0,404209.0,6570421.0,3454923.0,Plusieurs signaux financiers justifient une analyse approfondie.,SCV
+Client 301,Optimisation du BFR,Haute,107.28936508655856,3115498.0,404209.0,6570421.0,3454923.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCV
+Client 301,Optimisation du recouvrement clients,Haute,107.28936508655856,3115498.0,404209.0,6570421.0,3454923.0,DSO élevé et créances clients importantes.,SCV
+Client 178,Accompagnement au pilotage financier,Moyenne,0.30983569810725126,14217283.0,-1967645.0,57221.0,-14160062.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,SARL
+Client 178,Optimisation du BFR,Haute,0.30983569810725126,14217283.0,-1967645.0,57221.0,-14160062.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 178,Pilotage de la trésorerie,Haute,0.30983569810725126,14217283.0,-1967645.0,57221.0,-14160062.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SARL
+Client 273,Optimisation de la structure financière,Moyenne,0.0,-31800.0,39549710.0,0.0,31800.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 152,Optimisation du BFR,Haute,-4.157858309243777,1603818.0,-2870542.0,-220002.0,-1823820.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 152,Pilotage de la trésorerie,Haute,-4.157858309243777,1603818.0,-2870542.0,-220002.0,-1823820.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SARL
+Client 71,Optimisation du recouvrement clients,Haute,51.06249643833577,-5099555.0,109224.0,3127560.0,8227115.0,DSO élevé et créances clients importantes.,
+Client 47,Optimisation de la structure financière,Moyenne,0.0,-591933.0,17828217.0,0.0,591933.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 245,Diagnostic financier approfondi,Haute,691.1955211954921,32385935.0,484099.0,32921815.0,535880.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 245,Optimisation du BFR,Haute,691.1955211954921,32385935.0,484099.0,32921815.0,535880.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 245,Optimisation du recouvrement clients,Haute,691.1955211954921,32385935.0,484099.0,32921815.0,535880.0,DSO élevé et créances clients importantes.,IND
+Client 187,Diagnostic financier approfondi,Haute,174.29471545905255,4700543.0,106334.0,4731263.0,30720.0,Plusieurs signaux financiers justifient une analyse approfondie.,ASS
+Client 187,Optimisation du BFR,Haute,174.29471545905255,4700543.0,106334.0,4731263.0,30720.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,ASS
+Client 187,Optimisation du recouvrement clients,Haute,174.29471545905255,4700543.0,106334.0,4731263.0,30720.0,DSO élevé et créances clients importantes.,ASS
+Client 81,Optimisation du recouvrement clients,Haute,24.42467518042239,-839010.0,107895.0,993439.0,1832449.0,DSO élevé et créances clients importantes.,
+Client 171,Accompagnement au pilotage financier,Moyenne,87.85053352008084,7995581.0,4804436.0,14478580.0,6482999.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,DIV
+Client 171,Diagnostic financier approfondi,Haute,87.85053352008084,7995581.0,4804436.0,14478580.0,6482999.0,Plusieurs signaux financiers justifient une analyse approfondie.,DIV
+Client 171,Optimisation du BFR,Haute,87.85053352008084,7995581.0,4804436.0,14478580.0,6482999.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,DIV
+Client 171,Optimisation du recouvrement clients,Haute,87.85053352008084,7995581.0,4804436.0,14478580.0,6482999.0,DSO élevé et créances clients importantes.,DIV
+Client 165,Accompagnement au pilotage financier,Moyenne,36.228649000575125,-1578478.0,19506005.0,9330268.0,10908746.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 165,Optimisation du recouvrement clients,Haute,36.228649000575125,-1578478.0,19506005.0,9330268.0,10908746.0,DSO élevé et créances clients importantes.,
+Client 125,Accompagnement au pilotage financier,Moyenne,51.631436718692065,7346465.0,15998306.0,14278584.0,6932119.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 125,Diagnostic financier approfondi,Haute,51.631436718692065,7346465.0,15998306.0,14278584.0,6932119.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 125,Optimisation du BFR,Haute,51.631436718692065,7346465.0,15998306.0,14278584.0,6932119.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 125,Optimisation du recouvrement clients,Haute,51.631436718692065,7346465.0,15998306.0,14278584.0,6932119.0,DSO élevé et créances clients importantes.,
+Client 239,Accompagnement au pilotage financier,Moyenne,57.3581138539761,1949556.0,2703322.0,7037088.0,5087532.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,IND
+Client 239,Diagnostic financier approfondi,Haute,57.3581138539761,1949556.0,2703322.0,7037088.0,5087532.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 239,Optimisation du BFR,Haute,57.3581138539761,1949556.0,2703322.0,7037088.0,5087532.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 239,Optimisation du recouvrement clients,Haute,57.3581138539761,1949556.0,2703322.0,7037088.0,5087532.0,DSO élevé et créances clients importantes.,IND
+Client 21,Diagnostic financier approfondi,Haute,108.07645816291593,2790746.0,3269565.0,3029400.0,238654.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 21,Optimisation du BFR,Haute,108.07645816291593,2790746.0,3269565.0,3029400.0,238654.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 21,Optimisation du recouvrement clients,Haute,108.07645816291593,2790746.0,3269565.0,3029400.0,238654.0,DSO élevé et créances clients importantes.,
+Client 101,Optimisation de la structure financière,Moyenne,0.0,0.0,15213891.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 53,Optimisation du BFR,Haute,15.439395839218784,420000.0,17505536.0,420000.0,0.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,ASS
+Client 196,Optimisation du BFR,Haute,76.48897058823529,570000.0,255113.0,570000.0,0.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SA
+Client 150,Accompagnement au pilotage financier,Moyenne,58.33088323999973,-13436775.0,86339263.0,24032539.0,37469314.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 150,Optimisation du recouvrement clients,Haute,58.33088323999973,-13436775.0,86339263.0,24032539.0,37469314.0,DSO élevé et créances clients importantes.,
+Client 164,Optimisation de la structure financière,Moyenne,-6.375609638017005,-7322603.0,67448654.0,-5325409.0,1997194.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 176,Optimisation de la structure financière,Moyenne,0.0,-9763314.0,13271238.0,0.0,9763314.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",SAS
+Client 258,Optimisation de la structure financière,Moyenne,0.0,-2434300.0,26335281.0,0.0,2434300.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 190,Diagnostic financier approfondi,Haute,22.867103392077006,-2690009.0,-747853.0,2296148.0,4986157.0,Plusieurs signaux financiers justifient une analyse approfondie.,DIV
+Client 190,Optimisation du recouvrement clients,Haute,22.867103392077006,-2690009.0,-747853.0,2296148.0,4986157.0,DSO élevé et créances clients importantes.,DIV
+Client 161,Optimisation du BFR,Haute,10.653931055086222,415707.0,7364371.0,513528.0,97821.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 219,Diagnostic financier approfondi,Haute,23.424706118111295,897458.0,1171531.0,1611841.0,714383.0,Plusieurs signaux financiers justifient une analyse approfondie.,SCI
+Client 219,Optimisation du BFR,Haute,23.424706118111295,897458.0,1171531.0,1611841.0,714383.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SCI
+Client 219,Optimisation du recouvrement clients,Haute,23.424706118111295,897458.0,1171531.0,1611841.0,714383.0,DSO élevé et créances clients importantes.,SCI
+Client 218,Accompagnement au pilotage financier,Moyenne,54.64753362211595,5095556.0,-1718783.0,9386567.0,4291011.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,SARL
+Client 218,Diagnostic financier approfondi,Haute,54.64753362211595,5095556.0,-1718783.0,9386567.0,4291011.0,Plusieurs signaux financiers justifient une analyse approfondie.,SARL
+Client 218,Optimisation du BFR,Haute,54.64753362211595,5095556.0,-1718783.0,9386567.0,4291011.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 218,Optimisation du recouvrement clients,Haute,54.64753362211595,5095556.0,-1718783.0,9386567.0,4291011.0,DSO élevé et créances clients importantes.,SARL
+Client 218,Pilotage de la trésorerie,Haute,54.64753362211595,5095556.0,-1718783.0,9386567.0,4291011.0,Trésorerie faible avec un besoin en fonds de roulement positif.,SARL
+Client 305,Optimisation de la structure financière,Moyenne,0.0,-27081993.0,106167675.0,0.0,27081993.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",SCV
+Client 198,Optimisation de la structure financière,Moyenne,0.0,-1129905.0,16121424.0,0.0,1129905.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",DIV
+Client 100,Accompagnement au pilotage financier,Moyenne,4.399517732448587,1173681.0,1500318.0,599760.0,-573921.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 100,Optimisation du BFR,Haute,4.399517732448587,1173681.0,1500318.0,599760.0,-573921.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 91,Accompagnement au pilotage financier,Moyenne,64.19996539613604,29008180.0,33522820.0,32193483.0,3185303.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,SAS
+Client 91,Diagnostic financier approfondi,Haute,64.19996539613604,29008180.0,33522820.0,32193483.0,3185303.0,Plusieurs signaux financiers justifient une analyse approfondie.,SAS
+Client 91,Optimisation du BFR,Haute,64.19996539613604,29008180.0,33522820.0,32193483.0,3185303.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SAS
+Client 91,Optimisation du recouvrement clients,Haute,64.19996539613604,29008180.0,33522820.0,32193483.0,3185303.0,DSO élevé et créances clients importantes.,SAS
+Client 140,Diagnostic financier approfondi,Haute,22.95391909340929,796788.0,366527.0,1155687.0,358899.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 140,Optimisation du BFR,Haute,22.95391909340929,796788.0,366527.0,1155687.0,358899.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 140,Optimisation du recouvrement clients,Haute,22.95391909340929,796788.0,366527.0,1155687.0,358899.0,DSO élevé et créances clients importantes.,
+Client 206,Diagnostic financier approfondi,Haute,46.730476352136996,1138440.0,5661384.0,1679707.0,541267.0,Plusieurs signaux financiers justifient une analyse approfondie.,IND
+Client 206,Optimisation du BFR,Haute,46.730476352136996,1138440.0,5661384.0,1679707.0,541267.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,IND
+Client 206,Optimisation du recouvrement clients,Haute,46.730476352136996,1138440.0,5661384.0,1679707.0,541267.0,DSO élevé et créances clients importantes.,IND
+Client 74,Optimisation de la structure financière,Moyenne,0.0,0.0,7456537.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 175,Optimisation de la structure financière,Moyenne,-5.077511676805996,-458652.0,6041278.0,-658177.0,-199525.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 89,Accompagnement au pilotage financier,Moyenne,61.484052510027645,29260299.0,31975414.0,59631616.0,30371317.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 89,Diagnostic financier approfondi,Haute,61.484052510027645,29260299.0,31975414.0,59631616.0,30371317.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 89,Optimisation du BFR,Haute,61.484052510027645,29260299.0,31975414.0,59631616.0,30371317.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 89,Optimisation du recouvrement clients,Haute,61.484052510027645,29260299.0,31975414.0,59631616.0,30371317.0,DSO élevé et créances clients importantes.,
+Client 183,Accompagnement au pilotage financier,Moyenne,507.3136149083396,45879254.0,21887588.0,59702373.0,13823119.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 183,Diagnostic financier approfondi,Haute,507.3136149083396,45879254.0,21887588.0,59702373.0,13823119.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 183,Optimisation du BFR,Haute,507.3136149083396,45879254.0,21887588.0,59702373.0,13823119.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 183,Optimisation du recouvrement clients,Haute,507.3136149083396,45879254.0,21887588.0,59702373.0,13823119.0,DSO élevé et créances clients importantes.,
+Client 117,Diagnostic financier approfondi,Haute,998.0885410392383,10574465.0,2316238.0,10010355.0,-564110.0,Plusieurs signaux financiers justifient une analyse approfondie.,
+Client 117,Optimisation du BFR,Haute,998.0885410392383,10574465.0,2316238.0,10010355.0,-564110.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 117,Optimisation du recouvrement clients,Haute,998.0885410392383,10574465.0,2316238.0,10010355.0,-564110.0,DSO élevé et créances clients importantes.,
+Client 49,Optimisation de la structure financière,Moyenne,0.0,0.0,5203799.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 70,Optimisation de la structure financière,Moyenne,0.0,-291031.0,306933689.0,0.0,291031.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",EURL
+Client 241,Optimisation de la structure financière,Moyenne,0.0,0.0,96092355.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",IND
+Client 86,Optimisation de la structure financière,Moyenne,0.0,0.0,25396644.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 145,Pilotage de la trésorerie,Haute,36.49988593785644,43706.0,26388.0,128000.0,84294.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 226,Diagnostic financier approfondi,Haute,70.66192772897551,4032717.0,2402834.0,5279256.0,1246539.0,Plusieurs signaux financiers justifient une analyse approfondie.,SARL
+Client 226,Optimisation du BFR,Haute,70.66192772897551,4032717.0,2402834.0,5279256.0,1246539.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,SARL
+Client 226,Optimisation du recouvrement clients,Haute,70.66192772897551,4032717.0,2402834.0,5279256.0,1246539.0,DSO élevé et créances clients importantes.,SARL
+Client 96,Accompagnement au pilotage financier,Moyenne,-0.2554598181580037,6073181.0,-6938434.0,-120416.0,-6193597.0,Activité importante nécessitant un suivi renforcé des indicateurs financiers.,
+Client 96,Optimisation du BFR,Haute,-0.2554598181580037,6073181.0,-6938434.0,-120416.0,-6193597.0,BFR élevé avec des créances supérieures aux dettes fournisseurs.,
+Client 96,Pilotage de la trésorerie,Haute,-0.2554598181580037,6073181.0,-6938434.0,-120416.0,-6193597.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 147,Pilotage de la trésorerie,Haute,-40.43398004686758,126330.0,-1060390.0,-379884.0,-506214.0,Trésorerie faible avec un besoin en fonds de roulement positif.,
+Client 121,Optimisation de la structure financière,Moyenne,0.0,0.0,35685405.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
+Client 41,Optimisation de la structure financière,Moyenne,0.0,0.0,5073116.0,0.0,0.0,"Trésorerie élevée, faible délai de paiement des clients et besoin en fonds de roulement maîtrisé.",
