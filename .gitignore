@@ -3,14 +3,12 @@
 
 # Données 
 Data/source/
-Data/parquet/
 
 # Cache Python
 __pycache__/
 .ipynb_checkpoints/
 
-# Fichiers générés
-*.parquet
+
 
 # Fichiers système
 .DS_Store
